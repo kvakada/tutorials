@@ -1,5 +1,0 @@
-pandas
-numpy
-matplotlib
-s3fs
-jupyter
